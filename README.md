@@ -1,6 +1,6 @@
 # HR-Analytics-Dashboard
 
-Project Title / Headline
+Project Title / Headline:
 HR Analytics Dashboard is a business intelligence tool that tracks employee data, attrition trends, and workforce performance.
 
 📊 Key Features
