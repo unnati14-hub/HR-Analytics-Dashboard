@@ -22,4 +22,4 @@ Recommended Structure and Order
 **Visualization:** Power BI / Tableau / Streamlit (Power BI)
 **Dataset:** [HR_Analytics-Dataset.csv]
 
-snapshot of the dashboard
+Dashboard Preview - (https://github.com/unnati14-hub/HR-Analytics-Dashboard/blob/main/snapshot%20of%20the%20dashboard.png)
